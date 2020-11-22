@@ -9,3 +9,26 @@ body {
     margin-top: 10%;
 
 }
+
+.title{
+    color:#efaa5f;
+    text-align:center;
+    font-weight: bold;
+    font-size: 4rem;
+}
+
+
+.countryList{
+    color: #f37777;
+    white-space: pre-line;
+    text-align:center;
+    font-size: 3rem
+
+}
+
+hr{
+    width: 20%;
+    border: 1px solid red;
+    border-bottom: 0;
+
+}
