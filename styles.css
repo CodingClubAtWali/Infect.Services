@@ -32,3 +32,11 @@ hr{
     border-bottom: 0;
 
 }
+
+.stickyButton img{
+    width: 5%;
+    position: fixed;
+    bottom: 4%;
+    right: 2%;
+
+}
