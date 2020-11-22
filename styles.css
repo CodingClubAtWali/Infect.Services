@@ -1,12 +1,11 @@
 body {
     background-color: #E4F9F5;
+
 }
 
-.cmingimg {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 10%;
+.imageContainer{
+    padding: 9.375% 0;
+    text-align: center;
 
 }
 
